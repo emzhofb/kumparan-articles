@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "author": "Ikhda",
+    "title": "What is Big (O) Notation",
+    "body": "Big O notation is a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity.",
+    "created": "2021-01-01T12:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "author": "Muhammad",
+    "title": "What is Time Complexity",
+    "body": "In computer science, the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm.",
+    "created": "2021-01-02T12:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "author": "Wildani",
+    "title": "What is Data Structure",
+    "body": "In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification.",
+    "created": "2021-01-03T12:00:00.000Z"
+  }
+]
